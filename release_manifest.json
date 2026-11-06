@@ -1,0 +1,23 @@
+{
+  "version": "v1.0.0",
+  "date": "2026-11-06",
+  "repository": "https://github.com/snake759494/cyborg-009-sfc-korean-patch",
+  "files": {
+    "source": {"file": "Cyborg 009 (Japan).sfc", "size": 1048576, "sha256": "71e77fdbd9c865ae07e907549b02549ebe87fa8d436401c485e588c61797754a"},
+    "output": {"file": "Cyborg 009 (Korean).sfc", "size": 2097152, "sha256": "5ef0c18872e1afbc2047d579f1dc648e200ad43edf4cf2158782dfeefa68f482"},
+    "patch": {"file": "Cyborg_009_SFC_KR.xdelta", "size": 119821, "sha256": "38144245ba24ae7a29a904427cceb5016ebe543e4d68f7905ef90d8ecb41a825"}
+  },
+  "fonts": {
+    "Galmuri7.ttf": "3882bd35066c26b0392cd4963ff9b3c151041dec34adc9d5633d137d1d9b9855",
+    "Galmuri9.ttf": "5cb68052ee0a15571747e91c20f145e24b51bb459c6cd58226fafee78d9c0b16",
+    "SeoulHangangEB.ttf": "60d6a471e9a14f4ba563612d2577b9b6ccb2d1c599a69191b3f9f82ef80a19d1",
+    "NanumSquareNeo-bRg.ttf": "864de849b9d0af7efbd9e855044f5ab3bbf44cc88ddff6b9873ee830b9d3a61f",
+    "NanumSquareNeo-cBd.ttf": "4749fa5691157cf56a59d297b45e88894a646846048018cd7a4117ffb2869767",
+    "NanumSquareNeo-dEb.ttf": "3cedb3ee07aabd894f2c1ad4f0434739ecf28a870674ba73cff016057c764750",
+    "NanumSquareNeo-eHv.ttf": "a2850a335d3211ef19b130d368c961ea11822b67e2b7332bd2de78a486f69005"
+  },
+  "xdelta_options": ["-f", "-0", "-S", "none", "-D", "-e"],
+  "release_assets": ["Cyborg_009_SFC_KR.xdelta"],
+  "full_playthrough_verified": false,
+  "hardware_verified": false
+}
